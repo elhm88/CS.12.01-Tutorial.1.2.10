@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6daad2d5-70a7-470b-84d3-c941c143aa25" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LightBoard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="6daad2d5-70a7-470b-84d3-c941c143aa25" name="Changes" comment="All tests passed except for evaluateLight(), but I think there might be errors in the test code (my evaluation is commented in the test file).">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CS.12.01-Tutorial.1.2.10.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CS.12.01-Tutorial.1.2.10.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LightBoardTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LightBoardTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,20 +43,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "JUnit.LightBoardTest.evaluateLight.executor": "Run",
-    "JUnit.LightBoardTest.executor": "Run",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;JUnit.LightBoardTest.evaluateLight.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LightBoardTest.executor&quot;: &quot;Run&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="LightBoardTest.evaluateLight" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CS.12.01-Tutorial.1.2.10" />
@@ -87,6 +83,15 @@
       <option name="presentableId" value="Default" />
       <updated>1694146387218</updated>
     </task>
+    <task id="LOCAL-00001" summary="All tests passed except for evaluateLight(), but I think there might be errors in the test code (my evaluation is commented in the test file).">
+      <option name="closed" value="true" />
+      <created>1726768213237</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726768213237</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -99,5 +104,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="All tests passed except for evaluateLight(), but I think there might be errors in the test code (my evaluation is commented in the test file)." />
+    <option name="LAST_COMMIT_MESSAGE" value="All tests passed except for evaluateLight(), but I think there might be errors in the test code (my evaluation is commented in the test file)." />
   </component>
 </project>
